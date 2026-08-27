@@ -1,0 +1,14 @@
+{
+  "name": "Muhammad Shahid Raza Khan",
+  "handle": "msr-khan",
+  "photo": "/developer/photo.jpg",
+  "bio": "Computer Science student building desktop tools and games with C++. Learning software development, OOP and data structures at Government College University, Faisalabad.",
+  "location": "Punjab, Pakistan",
+  "email": "msrk903@gmail.com",
+  "socials": {
+    "github": "https://github.com/msr-khan",
+    "linkedin": "",
+    "instagram": "",
+    "website": ""
+  }
+}
